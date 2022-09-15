@@ -4,6 +4,6 @@
 
 •	🆙 atualização
 
-•	🪲 correção de bug
+•	⚠️ correção de bug
 
 •	🏁 release
