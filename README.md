@@ -1,9 +1,16 @@
+#POO
+
+🇧🇷 Estudo de Programação Orientada a objeto pelo Curso em Vídeo.
+🇪🇸 Estudio de Programación Orientada a Objetos por el Curso de Video.
+🇺🇸 Study of OOP by Curso em Vídeo.
+
+
 # Ícones
 
-•	📦 nova funcionalidade
+•	📦 Nova funcionalidade/ New functionality
 
-•	🆙 atualização
+•	🆙 Atualização / Update
 
-•	⚠️ correção de bug
+•	⚠️ Correção de bug/ Bug correction
 
 •	🏁 release
