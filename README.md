@@ -1,10 +1,10 @@
 #POO
 
-🟩 Estudo de Programação Orientada a objeto pelo Curso em Vídeo.
+🟩 Estudo de Programação Orientada a objeto pelo [Curso em Vídeo](https://www.cursoemvideo.com).
 
-🟨 Estudio de Programación Orientada a Objetos por el Curso em Video.
+🟨 Estudio de Programación Orientada a Objetos por el [Curso em Vídeo](https://www.cursoemvideo.com).
 
-🟥 Study of OOP by Curso em Vídeo.
+🟥 Study of OOP run  by [Curso em Vídeo](https://www.cursoemvideo.com).
 
 
 # Ícones
